@@ -1,6 +1,6 @@
-# Máquinas de Turing – Trabalho de Teoria da Computação
+# Máquinas de Turing – Trabalho de  Linguagens Formais e Autômatos
 
-Este repositório reúne as implementações das Máquinas de Turing desenvolvidas para um trabalho da disciplina de Teoria da Computação.
+Este repositório reúne as implementações das Máquinas de Turing desenvolvidas para um trabalho da disciplina de  Linguagens Formais e Autômatos.
 
 O objetivo do projeto foi modelar e implementar soluções para diferentes problemas utilizando Máquinas de Turing de fita única, aplicando conceitos como controle de estados, manipulação da fita, uso de marcadores e construção de algoritmos.
 
