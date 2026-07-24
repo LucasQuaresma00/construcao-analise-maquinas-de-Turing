@@ -36,6 +36,7 @@ O objetivo do projeto foi modelar e implementar soluções para diferentes probl
 ├── questao3.jff
 ├── questao4.jff
 ├── questao5.jff
+├── Relatório_LFA-1.pdf
 └── README.md
 ```
 
