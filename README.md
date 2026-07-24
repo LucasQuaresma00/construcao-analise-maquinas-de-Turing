@@ -6,16 +6,31 @@ O objetivo do projeto foi modelar e implementar soluções para diferentes probl
 
 ## Questões implementadas
 
-- Questão 1 – Contagem de símbolos em uma cadeia.
-- Questão 2 – Conversão de símbolos para representação binária.
-- Questão 3 – Remoção do primeiro símbolo da entrada.
-- Questão 4 – Classificação de notas.
-- Questão 5 – Subtração em representação unária.
+### Questão 1 – Contagem de símbolos em uma cadeia
+![Questão 1](imagens/questao1.png)
+
+### Questão 2 – Conversão de símbolos para representação binária
+![Questão 2](imagens/questao2.png)
+
+### Questão 3 – Remoção do primeiro símbolo da entrada
+![Questão 3](imagens/questao3.png)
+
+### Questão 4 – Classificação de notas
+![Questão 4](imagens/questao4.png)
+
+### Questão 5 – Subtração em representação unária
+![Questão 5](imagens/questao5.png)
 
 ## Estrutura do repositório
 
 ```text
 .
+├── imagens/
+│   ├── questao1.png
+│   ├── questao2.png
+│   ├── questao3.png
+│   ├── questao4.png
+│   └── questao5.png
 ├── questao01.jff
 ├── questao02.jff
 ├── questao03.jff
